@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo Dialog</string>
+    <string name="btnDemo1">DEMO 1- SIMPLE DIALOG</string>
+    <string name="btnDemo2" >DEMO 2 BUTTON DIALOG</string>
+    <string name="buttonDemo3">DEMO 3 TEXT INPUT dialog</string>
+    <string name="textViewInput">Enter Some Text</string>
+    <string name="buttonEx3">Exercise 3</string>
+    <string name="num1">Enter Number 1: </string>
+    <string name="num2">Enter Number 2: </string>
+    <string name="buttonDemo4">Demo 4 datepicker dialog</string>
+    <string name="buttonDemo5">demo 5 timepicker dialog</string>
+</resources>
